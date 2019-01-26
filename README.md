@@ -4,7 +4,7 @@ This is the readme file for this project
 
 ## Updates
 
-Adding changes for exampleS
+Adding changes for example
 
 ## Even more changes
 
@@ -12,3 +12,4 @@ Adding changes for exampleS
 ## Updating from Master
 
 This is going to be painful, but we will deal with it
+Since I plan edit the same file, this could cause a conflict
