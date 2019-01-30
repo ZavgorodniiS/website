@@ -1,1 +1,3 @@
-
+/*
+  CUstom JavaScript
+*/
